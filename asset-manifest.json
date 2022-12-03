@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fobofriends/static/css/main.b559cd3b.css",
+    "main.js": "/fobofriends/static/js/main.b5f276fb.js",
+    "static/js/787.7911e78b.chunk.js": "/fobofriends/static/js/787.7911e78b.chunk.js",
+    "static/media/SEGA.woff": "/fobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/fobofriends/index.html",
+    "main.b559cd3b.css.map": "/fobofriends/static/css/main.b559cd3b.css.map",
+    "main.b5f276fb.js.map": "/fobofriends/static/js/main.b5f276fb.js.map",
+    "787.7911e78b.chunk.js.map": "/fobofriends/static/js/787.7911e78b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b559cd3b.css",
+    "static/js/main.b5f276fb.js"
+  ]
+}
